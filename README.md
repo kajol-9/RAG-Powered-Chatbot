@@ -9,7 +9,7 @@ This project is part of a hands-on course exploring:
 - **RAG (Retrieval-Augmented Generation)** to enhance LLM responses with external data
 - **Custom chatbot development** powered by LangChain that answers user queries based on private or domain-specific documents
 
-The course integrates with the *LangChain Chat with Your Data* app to support experimentation and learning.
+
 
 ---
 
@@ -31,7 +31,7 @@ Split documents into optimal chunks to improve:
 - Retrieval accuracy
 - Model context window usage
 
-> Learn best practices for chunk size, overlap, and structure.
+> Applies best practices for chunk size, overlap, and structure.
 
 ---
 
@@ -76,19 +76,6 @@ Split documents into optimal chunks to improve:
 
 ---
 
-## 🚀 Getting Started
 
-> *Coming soon: setup instructions, environment, and example notebooks.*
 
----
-
-## 📜 License
-
-This project follows the licensing terms of the course and tools used. Refer to individual packages for license details.
-
----
-
-## 🙌 Acknowledgments
-
-This project is built as part of the **LangChain Chat with Your Data** course, designed to help developers explore document-based LLM applications through practical implementation.
 
